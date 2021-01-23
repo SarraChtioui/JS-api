@@ -1,0 +1,36 @@
+{
+"Data Structures": [
+    {
+    "String": "chaine de charactères",
+    "Number": "nombre",
+    "Boolean": "booléen",
+    "Array": "tableau",
+    "Object": "objet"
+    }
+],
+"Syntax": [
+    {
+    "Curly braces": "accolades",
+    "Square Brackets": "crochets",
+    "Parentheses": "parenthéses",
+    "Pipe": "tubes",
+    "Double quotes": "guillemets doubles",
+    "Single quotes":"guillemets simples",
+    "Backticks":"guillemets inverses"
+    }
+],
+"Operators types": [
+    {
+    "Assignment Operators": "opérateurs d'affection",
+    "Comparison Operators": "opérateurs de comparaison",
+    "Arithmetic Operators": "opérateurs arithmétiques",
+    "Binary Operators": "opérateurs binaires",
+    "Logical Operators": "opérateurs logiques",
+    "String Operators":"opérateurs de chaines",
+    "Conditional Operators": "opérateurs conditionnels",
+    "Comma Operator": "opérateur virgule",
+    "Unary Operator": "opérateurs unaires",
+    "Relational Operator": "opérateurs relationnels"
+    }
+]
+}
